@@ -1,0 +1,35 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 21.03 s <<< FAILURE! - in TestSuite
+MobileAutomation1.Mobile.eCommerce_tc_1.ConfigureAppium  Time elapsed: 20.523 s  <<< FAILURE!
+io.appium.java_client.service.local.AppiumServerHasNotBeenStartedLocallyException: 
+[The local appium server has not been started, Reason: Timed out waiting for [http://127.0.0.1:4723/status] to be available after 20012 ms, Consider increasing the server startup timeout value (currently 20000ms), Node.js executable path: C:\Program Files\nodejs\node.exe, Arguments: [C:\Users\shant\.appium\node_modules\appium-uiautomator2-driver\build\index.js, --port, 4723, --address, 127.0.0.1], Output: Error: Cannot find module 'appium/driver'
+Require stack:
+- C:\Users\shant\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\build\lib\driver.js
+- C:\Users\shant\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\build\lib\index.js
+- C:\Users\shant\.appium\node_modules\appium-uiautomator2-driver\build\lib\driver.js
+- C:\Users\shant\.appium\node_modules\appium-uiautomator2-driver\build\index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (C:\Users\shant\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\driver.ts:16:1)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (C:\Users\shant\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\index.ts:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:960:12)
+]
+Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://127.0.0.1:4723/status] to be available after 20012 ms
+Caused by: java.util.concurrent.TimeoutException
+
+MobileAutomation1.Mobile.eCommerce_tc_1.tearDown  Time elapsed: 0.04 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.quit()" because "this.driver" is null
+
