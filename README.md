@@ -5,13 +5,19 @@
 
 
 <h2>📝 Description</h2> 
-
-This Project's contains, how mobile automation project perform with major key basic functionality such as- Drag and Drop, Long Press, Scroll, Miscellenous Activities, Swipe.</p>
+This project cobined the
+"General Store APK Project" main functionalities Contains: 
+* User open the app,
+* Input some requremrnt information form,
+* add to cart the product,
+* Validate the amount,
+* Proceed the button,
+* Go to Goole browser for native feature's.
 
 
 <h2>📸 Project Video</h2>
 
-[Click on the Link to Watch this "API Demo Project" Full Video Running](https://drive.google.com/file/d/13OGRhXEKOLGfqJpBH-QuzCRrfxCE0hTc/view?usp=sharing)
+[Click on the Link to Watch this "General Store APK Project" Full Video Running](https://drive.google.com/file/d/13OGRhXEKOLGfqJpBH-QuzCRrfxCE0hTc/view?usp=sharing)
 
 
 <h2>📸 Project Screenshots</h2>
