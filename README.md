@@ -8,6 +8,7 @@
 This project is the Native App Mobile Automation where User can automatically open the app, Fill up the Form with user information, Add to cart product, Validate the amount and Proceed.
 
 
+<h2>🚀 Features</h2>
 
 "General Store APK Project" main functionalities Contains: 
 
@@ -54,18 +55,6 @@ This project is the Native App Mobile Automation where User can automatically op
 
 
 
-<h2>🚀 Features</h2>
-
-Here're some of the project's best features:
-Drag and drop, Long Press, Scroll, Miscellenous Activities, Swipe
-*   Base Test Class
-*   Drag and Drop
-*   Long Press
-*   Scroll
-*   Miscellenous Activities
-*   Swipe
-*   Android Mobile View
-
  <!--<h2>🛠️ Installation Steps:</h2>
 
 <p>1. Download &amp; Install Appium.</p>
@@ -86,7 +75,10 @@ Drag and drop, Long Press, Scroll, Miscellenous Activities, Swipe
 
 Technologies used in the project:
 
-*   Appium
-*   Android Studio
-*   Node js
 *   Java
+*   Node.js
+*   Android Studio
+*   Eclipse Editor
+*   Install Appium Server
+*   TestNG PlugIn 
+*   Add POM File Dependency
