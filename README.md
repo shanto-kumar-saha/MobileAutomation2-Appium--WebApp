@@ -13,10 +13,10 @@ This project is the Native App Mobile Automation where User can automatically op
 
 *  User open the app,
 *  Input some requremrnt information form,
-*  add to cart the product,
+*  Add to cart the product,
 *  Validate the amount,
 *  Proceed the button,
-*  Go to Goole browser for native feature's.
+*  Go to Google browser for Native App feature's.
 
 
 <h2>📸 Project Video</h2>
