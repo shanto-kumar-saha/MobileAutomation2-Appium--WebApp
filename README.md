@@ -5,7 +5,9 @@
 
 
 <h2>📝 Description</h2> 
-This project is the Native App where User can automatically open the app, Fill up the Form with user information, Add to cart product, Validate the amount and Proceed.
+This project is the Native App Mobile Automation where User can automatically open the app, Fill up the Form with user information, Add to cart product, Validate the amount and Proceed.
+
+
 
 "General Store APK Project" main functionalities Contains: 
 
