@@ -26,7 +26,10 @@ This project is the Native App Mobile Automation where User can automatically op
 
 <h2>📸 Udemy Course Complete Certificate</h2>
 
-[Udemy Mobile Automation Corse Complete Certificate Link wtih LikednIn Post](https://www.linkedin.com/posts/shanto-kumar-saha_mobileautomation-appium-mobiletesting-activity-7187521065777074178-1axU?utm_source=share&utm_medium=member_desktop)
+* [Udemy Mobile Automation LinkedIn Post](https://www.linkedin.com/posts/shanto-kumar-saha_mobileautomation-appium-mobiletesting-activity-7187521065777074178-1axU?utm_source=share&utm_medium=member_desktop)
+
+  
+ ![Appium Mobile Automation Testing](https://github.com/shanto-kumar-saha/MobileAutomation1-Appium/assets/122052172/8793d61f-1a16-41e1-a57b-95af4cc7ee30)
 
 
 <h2>📸 Project Screenshots</h2>
