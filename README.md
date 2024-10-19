@@ -5,8 +5,7 @@
 
 
 <h2>📝 Description</h2> 
-This project is the  Web App Mobile Automation where User can automatically open the app, Fill up the Form with user information, Add to Cart product, Validate the Amount and Proceed.
-
+This project is a web app mobile automation system developed using Java, where users can auto-launch the app, input user information, add products to the cart, check the amount, and proceed smoothly with the transaction.
 
 <h2>🚀 Project Features</h2>
 
